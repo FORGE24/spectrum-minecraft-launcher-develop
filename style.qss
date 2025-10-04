@@ -1,0 +1,40 @@
+QWidget {
+    background-color: #1E1E1E; /* 深灰背景 */
+    color: #FFFFFF;
+    font-family: "Microsoft YaHei", "Segoe UI";
+    font-size: 14px;
+}
+
+QTabWidget::pane {
+    border: none;
+}
+
+QTabBar::tab {
+    background: transparent;
+    color: #AAAAAA;
+    padding: 15px 25px;
+    margin: 2px;
+    border-radius: 8px;
+}
+
+QTabBar::tab:selected {
+    background: #E63946;  /* 玫瑰红 */
+    color: #FFFFFF;
+}
+
+QPushButton {
+    background-color: #E63946;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 12px;
+    font-size: 15px;
+}
+
+QPushButton:hover {
+    background-color: #FF4D5E;
+}
+
+QPushButton:pressed {
+    background-color: #B71C2B;
+}
