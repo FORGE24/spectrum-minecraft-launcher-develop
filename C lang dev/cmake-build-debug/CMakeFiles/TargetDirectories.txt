@@ -1,0 +1,3 @@
+C:/Users/CHENs/CLionProjects/1145141919810/cmake-build-debug/CMakeFiles/SpectrumPlugin.dir
+C:/Users/CHENs/CLionProjects/1145141919810/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/CHENs/CLionProjects/1145141919810/cmake-build-debug/CMakeFiles/rebuild_cache.dir
